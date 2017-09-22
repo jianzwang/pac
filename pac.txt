@@ -35,6 +35,8 @@ var rules = [
   "||dawangidc.com",
   "||deezer.com",
   "*.ahcdn.com",
+  "raw.githubusercontent.com",
+  "github.com"
   "||desipro.de",
   "||dingchin.com.tw",
   "||dish.com",
